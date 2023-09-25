@@ -1,4 +1,4 @@
-# Hi there, I'm [ Promise Duke (Champion)] 👋
+# Hi there, I'm Promise Duke {Champion} 👋
 
 =========================================
 
