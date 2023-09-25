@@ -8,7 +8,7 @@ I'm a Full-Stack Software Developer with a passion for building web applications
 
 - 🌍  I'm based in West Africa
 - ✉️  You can contact me at [promiseduke@gmail.com](mailto:promiseduke@gmail.com)
--  👨‍💻 My main  projects are available at [promisechampion.vercel.app](<a href="https://promisechampion.vercel.app" target="_blank">my portfolio</a>)
+-  👨‍💻 My main  projects are available at (<a href="https://promisechampion.vercel.app" target="_blank">my portfolio</a>)
 
 - 🤝  I'm open to collaborating on Interesting projects.
 
