@@ -42,6 +42,7 @@ I'm a Full-Stack Software Developer with a passion for building web applications
 </p>
 
 ### Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="239673c7-305b-416e-9fea-08d082ef6db4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <b>My GitHub Stats</b>
 
