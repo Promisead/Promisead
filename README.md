@@ -44,9 +44,6 @@ I'm a Full-Stack Software Developer with a passion for building web applications
 ### Badges
 # My Project
 
-Check out my badge on Credly!
-
-![My Credly Badge](https://images.credly.com/size/680x680/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png)
 
 
 <b>My GitHub Stats</b>
