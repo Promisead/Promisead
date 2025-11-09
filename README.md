@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Image -->
-  <img src="https://your-banner-image-link.com/banner.png" alt="Creative Banner" width="100%" style="border-radius:12px; margin-bottom: 20px;" />
+  <img src="https://copilot.microsoft.com/shares/M9R1Mz4D61zk1LMpqoRag" alt="Creative Banner" width="100%" style="border-radius:12px; margin-bottom: 20px;" />
 
   <!-- Typing animation -->
   <a href="https://github.com/Promisead">
