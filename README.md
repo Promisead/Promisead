@@ -3,16 +3,15 @@
 👨🏽‍💻 **FullStack Engineer (Mobile & Web)** | **Data Scientist**
 
 I **design, build, and analyze digital products** with a focus on scalable and efficient solutions.  
-With a strong foundation in both **frontend & backend engineering**, I deliver seamless experiences while applying **data-driven insights**.  
-My passion lies in **clean architecture**, **continuous learning**, and **building technology that solves real-world problems**.
+With a strong foundation across **frontend**, **backend**, and **data science**, I deliver meaningful, efficient, and user-focused systems.  
+I enjoy **problem-solving**, **clean software architecture**, and building **technology that has impact**.
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **React Native Applications**
-- 🌱 Expanding into **AI/ML with Python**
-- 👯 Open to **collaborations on Open Source & Data Projects**
-- ⚡ I enjoy **learning new technologies & refining system architectures**
+- 🔭 Currently working on **React Native & Django Applications**
+- 🌱 Expanding expertise in **Machine Learning & MLOps**
+- 👯 Open to **collaborations on Open Source & Data-driven Projects**
 - 💻 All projects: https://github.com/Promisead  
 - ✍️ Articles: https://medium.com/@promiseduke  
 - 📫 Reach me: **promiseduke@gmail.com**
@@ -40,10 +39,18 @@ My passion lies in **clean architecture**, **continuous learning**, and **buildi
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases & ORMs
+<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white"/>
 </p>
 
 ---
@@ -58,6 +65,17 @@ My passion lies in **clean architecture**, **continuous learning**, and **buildi
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+---
+
+### 🧰 DevOps, Cloud & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
