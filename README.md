@@ -23,8 +23,7 @@
 
 
 
-
-
+---
 
 ### 👨🏽‍💻 About Me 
 - 🔭 Currently working on **React Native & Django Applications**
