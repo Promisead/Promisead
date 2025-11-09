@@ -18,7 +18,7 @@
 
 <!-- Portfolio Link -->
 <p>
-  <a href="https://ai-promise.vercel.app" target="_blank"><b>Visit my portfolio  🌐 </b></a>
+  <a href="https://ai-promise.vercel.app" target="_blank"><b>Visit my portfolio </b></a>🌐
 </p>
 
 </div>
