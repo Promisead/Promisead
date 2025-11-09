@@ -2,7 +2,7 @@
 
 =========================================
 
-## FullStack Dev
+## 👨🏽‍💻FullStack  Enginneer (Mobile & Web) And Data Scientist
 
 I'm a Full-Stack Software Developer with a passion for building web applications and solving complex problems. 🥂🥂.
 
