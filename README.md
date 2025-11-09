@@ -15,13 +15,13 @@
     I work across <b>Frontend</b>, <b>Backend</b>, and <b>Data Science</b>, delivering systems that are  
     both user-friendly and technically sound.
   </p>
-</div>
+
 <!-- Portfolio Link -->
 <p>
   🌐 Visit my portfolio: <a href="https://ai-promise.vercel.app" target="_blank"><b>ai-promise.vercel.app</b></a>
 </p>
 
-
+</div>
 ---
 
 
