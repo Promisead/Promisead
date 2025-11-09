@@ -1,8 +1,7 @@
 ## Hi there, I'm Promise Duke 👋
 
-<h3 align="center">A passionate Fullstack Developer from Nigeria</h3>
 
-� **FullStack Engineer (Mobile & Web)** | **Data Scientist** | **Technical Writer**
+👨🏽‍💻 **FullStack Engineer (Mobile & Web)** | **Data Scientist** 
 
 I **design, build, and analyze digital products** with a focus on scalable and efficient solutions ✨.  
 With a solid foundation in both **frontend and backend development**, I create seamless user experiences while leveraging data-driven insights.  
