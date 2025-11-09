@@ -1,9 +1,11 @@
 
-## Hi there, I'm Promise Duke 👋
+<p align="center">
+  <strong><span style="font-size: 28px;">Hi there, I'm Promise Duke 👋</span></strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/Promisead">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Mobile+Engineer;Cross+Platform+Developer;IT+Trainer" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=008AFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Mobile+Engineer;Cross+Platform+Developer;IT+Trainer" />
   </a>
 </p>
 
