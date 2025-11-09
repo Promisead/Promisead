@@ -1,5 +1,5 @@
 <div align="center">
-##### Promise Champion
+<h5>Promise Champion</h5>
 
 
   <!-- Typing animation -->
