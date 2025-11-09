@@ -20,7 +20,10 @@
 
 ---
 
-<h3  align="center"> 👨🏽‍💻 About Me </h3>
+
+
+
+### 👨🏽‍💻 About Me 
 - 🔭 Currently working on **React Native & Django Applications**
 - 🌱 Learning & applying **Machine Learning + MLOps**
 - 👯 Open to collaboration in **Open Source & Data-driven software**
