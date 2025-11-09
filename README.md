@@ -1,18 +1,21 @@
 <div align="center">
 
-### Hi there, I'm **Promise Duke** 👋
+  <!-- Banner Image -->
+  <img src="https://your-banner-image-link.com/banner.png" alt="Creative Banner" width="100%" style="border-radius:12px; margin-bottom: 20px;" />
 
-<a href="https://github.com/Promisead">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=007BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Data+Scientist;AI+Engineer;Mobile+Engineer;Cross+Platform+Developer;IT+Trainer" />
-</a>
+  <!-- Typing animation -->
+  <a href="https://github.com/Promisead">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=007BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Data+Scientist;AI+Engineer;Mobile+Engineer;Cross+Platform+Developer;IT+Trainer" />
+  </a>
 
-<br/>
+  <br/>
 
-I design, build, and analyze digital products with a strong emphasis on  
-<b>scalable architecture</b> and <b>data-driven problem solving</b>.  
-I work across **Frontend**, **Backend**, and **Data Science**, delivering systems that are  
-both user-friendly and technically sound.
-
+  <p>
+    I design, build, and analyze digital products with a strong emphasis on  
+    <b>scalable architecture</b> and <b>data-driven problem solving</b>.<br>
+    I work across <b>Frontend</b>, <b>Backend</b>, and <b>Data Science</b>, delivering systems that are  
+    both user-friendly and technically sound.
+  </p>
 </div>
 
 
