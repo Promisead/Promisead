@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://github.com/Promisead">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=008AFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Mobile+Engineer;Cross+Platform+Developer;IT+Trainer" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=008AFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Data+Scientist;Ai+Engineer;Mobile+Engineer;Cross+Platform+Developer;IT+Trainer" />
   </a>
 </p>
 
