@@ -4,7 +4,7 @@
 
   <!-- Typing animation -->
   <a href="https://github.com/Promisead">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=007BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Data+Scientist;AI+Engineer;Mobile+Engineer;Cross+Platform+Developer;IT+Trainer" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=007BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+💪🏽;Data+Scientist+📊;AI+Engineer👾;Mobile+Engineer+📱;Cross+Platform+Developer;IT+Trainer" />
   </a>
 
   <br/>
