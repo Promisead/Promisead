@@ -1,6 +1,6 @@
 <div align="center">
-<h5><b>Hi there, I'm Promise Champion 👋🏽</b></h5>
-# 👨🏽‍💻Hi there, I'm Promise Champion 👋🏽
+<h5><b>👨🏽‍💻 Hi there, I'm Promise Champion 👋🏽</b></h5>
+
 
   <!-- Typing animation -->
   <a href="https://github.com/Promisead">
